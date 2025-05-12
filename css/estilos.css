@@ -1,0 +1,29 @@
+.ct-series-a .ct-line {
+    stroke: #FF5733;
+    stroke-width: 3px;
+  }
+  
+  .ct-series-a .ct-area {
+    fill: #FFB07C;
+    fill-opacity: 0.3;
+  }
+  
+  .ct-series-a .ct-point {
+    stroke: #C70039;
+    stroke-width: 6px;
+  }
+  
+  .centro {
+    text-align: center;
+  }
+  .subt {
+    display: block;
+    font-size: large;
+    color: #6a1b9a;
+  }
+  
+  .ct-series-a .ct-point {
+    stroke: #C70039;
+    stroke-width: 6px;
+  }
+  
